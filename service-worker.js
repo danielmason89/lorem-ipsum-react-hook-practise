@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lorem-ipsum-react-hook-practise/precache-manifest.b6de679a886aa743bb4d5ad2c8958f9e.js"
+  "/lorem-ipsum-react-hook-practise/precache-manifest.339ee0d8e02ec773f45fbc763575edf6.js"
 );
 
 self.addEventListener('message', (event) => {

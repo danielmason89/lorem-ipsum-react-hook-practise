@@ -1,2 +1,0 @@
-(this.webpackJsonpreminder=this.webpackJsonpreminder||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var r=t(0),c=t.n(r),o=t(2),u=t.n(o);t(8);var a=function(){return c.a.createElement("h2",null,"lorem ipsum project setup")};u.a.render(c.a.createElement(c.a.StrictMode,null,c.a.createElement(a,null)),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.9f384e5a.chunk.js.map
